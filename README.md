@@ -1,12 +1,13 @@
 # sql-to-pandas
-Translating SQL to pandas
 
-Topics covered are:-
+Translating SQL to pandas.
 
-# Select Statement
-# Select statement with particular columns
-# Where Clause
-# Aggregate functions 
-# Group by clause
-# Having Clause
-# Order by  Clause
+sql queries and thier equivalent pandas code.
+
+Select Statement
+Select statement with particular columns
+Where Clause
+Aggregate functions 
+Group by clause
+Having Clause
+Order by  Clause
